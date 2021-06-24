@@ -8,6 +8,10 @@ Omar Oswaldo Rivera Flores	      17401062
 Keiry Yoseli Rodriguez Gonzalez   17401066
 Ximena Verdín Carreño             17401092
 
+Para correr el proyecto:
+  Primero hacer un npm install y nmp start a la carpeta libreria-alasdepapel-api-master, desde la terminal de VisualStudioCode.
+  Posteriormente hacer un npm install y npm start a la carpeta libreria-alasdepapel-web-master, desde la terminal de VisualStudioCode.
+  Acceder a http://localhost:4200/inicio
 
 Comandos en Postman
   Para la creación del usuario:
